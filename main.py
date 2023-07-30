@@ -40,7 +40,8 @@ def addToPlaylist(yt, playlist, list, charts):
   else:
      print("No new songs to add to the playlist")
 
-  
+
+
 
 #Auth
 yt = YTMusic('oauth.json')
